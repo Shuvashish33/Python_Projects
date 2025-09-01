@@ -1,1 +1,2 @@
 # Python_Projects at once
+Python implementations of computational physics methods, including root-finding (Bisection, Secant, Newton–Raphson), numerical integration/differentiation (Euler, RK1–RK4, Simpson’s rules), random number generation, and Monte Carlo simulation, guessing game and more.
